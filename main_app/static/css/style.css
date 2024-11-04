@@ -13,3 +13,11 @@ footer.page-footer {
   padding-top: 0;
   text-align: right;
 }
+.innercard {
+  display: flex;
+  flex-direction: row;
+}
+
+.img {
+  margin: auto 20px;
+}
